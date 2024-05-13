@@ -14,4 +14,4 @@ Le immagini non ottimizzate possono rallentare il caricamento delle pagine, inci
 Questi strumenti consentono di mantenere un equilibrio tra qualità delle immagini e prestazioni del sito.
 Prima di apportare modifiche significative come questa, è consigliabile testare attentamente le prestazioni del sito dopo aver disabilitato la compressione delle immagini per assicurarsi che la modifica non influisca negativamente sull'esperienza degli utenti e sul posizionamento del sito sui motori di ricerca.
 
-Potete trovare un esempio del codice in azione su questo sito di tecnologia https://www.scartoff.it
+Potete trovare un esempio del codice in azione su questo sito di tecnologia https://www.wiki-tech.it
